@@ -1,0 +1,8 @@
+{
+    "configVersion": "1",
+    "mode":"backup",
+    "nameMetadataFile":"m",
+    "rootSourceDirectory":"C:\\path\source",
+    "rootDestinationDirectory":"C:\\path\dest",
+    "fileOperationFileName":"fileOperation.json.tmp"
+ }
